@@ -31,7 +31,6 @@ The system includes 15 job roles, each with 10 associated skills:
 | System Administrator   | Linux, Bash, Virtualization              |
 | Blockchain Developer   | Solidity, Ethereum, Web3                 |
 | Game Developer         | Unity, C++, Unreal Engine                |
-
 ## Requirements
 * Python 3.8+
 * PyQt5
