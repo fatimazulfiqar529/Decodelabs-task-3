@@ -1,8 +1,8 @@
-##DecodeLabs Internship Artificial Intelligence (Project 3)
+DecodeLabs Internship Artificial Intelligence (Project 3)
 A content-based AI recommendation system that maps a user's skills to the most suitable tech career paths using TF-IDF weighting and Cosine Similarity.
-## Goal
+Goal
 Build a recommendation engine that takes a user's tech skills as input and returns the top 3 most relevant career paths by calculating mathematical similarity between the user profile and job role datasets.
-## How It Works
+How It Works
 The system follows a strict 4-step pipeline:
 ### Step 1: Ingestion
 The user selects or types a minimum of 3 skills. These are captured as the user profile.
